@@ -1,7 +1,7 @@
 id=Mi6_DesktopIconLayout
 name=米 6 修改桌面布局
-version=v1
-versionCode=1
+version=v1.1
+versionCode=2
 author=Ezalor
-description=将小米 6 桌面布局修改为缺省 5x5。
+description=将小米 6 桌面布局修改为缺省 5x6。
 template=3
