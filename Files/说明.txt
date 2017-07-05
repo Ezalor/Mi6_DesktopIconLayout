@@ -1,7 +1,7 @@
 手动修改方法：
 找喜欢的桌面布局，从主题里提取theme_values.xml，打包zip，改名com.miui.home，放进/system/media/theme/default，改权限644。
 
-现在这个是提取的主题 S8 edge 的桌面布局，为 5*5。
+现在这个是提取的主题 S7 Nougat 5x6 的桌面布局，为 5*6。
 
 目前还不知道各项参数是什么，就先用着吧。。等以后研究下小米主题的布局。
 
