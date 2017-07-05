@@ -8,3 +8,7 @@
 小米主题下载后保存位置：
 目前是在 存储/MIUI/theme/.data。
 想找主题的桌面布局的话，从preview/theme里看主题的修改时间，然后进content/launcher，找相同的修改时间，对应的mrc文件就是了。mrc为压缩文件，解压缩后即可找到theme_values.xml。
+
+P.S.
+v1 为主题 S8 edge 中提取，其只定义了横向 5 个图标，纵向未定义。
+v1.1 更换为 S7 Nougat 5x6，定义图标为 5*6。（说明：看了一下只多了这一行而已，其他完全一样。）
